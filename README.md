@@ -1,3 +1,3 @@
 # ciencia_datos-
 
-Aqui están es donde estan las tareas y trabajos. :
+Aqui están es donde estan las tareas y trabajos. 
